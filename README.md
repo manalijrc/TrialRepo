@@ -1,2 +1,2 @@
 # TrialRepo
-Describe contents and details
+Describe contents and details. Trying my first repo build
